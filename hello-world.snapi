@@ -6,3 +6,5 @@ hello_world() =  "Hello World!"
 // Hello Name Example
 
 hello_name(name: string) = "Hello "+name+" !"
+
+sample_check(name: string) = "Hi this is "+name+" !\n "
